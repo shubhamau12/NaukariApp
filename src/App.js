@@ -25,7 +25,7 @@ function App() {
   return (
     <div className="App">
       <h1>Naukari Applications</h1>
-     <button onClick={signUPUser}>Create User</button>
+     <SignUpPage></SignUpPage>
     </div>
   );
 }
